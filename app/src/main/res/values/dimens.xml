@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_sides">16dp</dimen>
+    <dimen name="padding_principal">16dp</dimen>
+    <dimen name="menu_mat_height">224dp</dimen>
+</resources>

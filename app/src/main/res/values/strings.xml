@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Plataforma Educativa</string>
+
+
+    <string name="informacion">Información</string>
+    <string name="actividades">Actividades</string>
+    <string name="imagen_educacion">Imagen educación</string>
+    <string name="pedagogia_paideia">Pedagogía Paideia</string>
+    <string name="info_principal">La pedagogía estudia a la educación como fenómeno complejo y multirreferencial, lo que indica que existen conocimientos provenientes de otras ciencias y disciplinas que le pueden ayudar a comprender lo que es la educación; ejemplos de ello son la historia, la sociología, la psicología y la política, entre otras. En este contexto, la educación tiene como propósito incorporar a los sujetos a una sociedad determinada que posee pautas culturales propias y características; es decir, la educación es una acción que lleva implícita la intencionalidad del mejoramiento social progresivo que permita que el ser humano desarrolle todas sus potencialidades. Para una mejor comprensión de la historia de la conformación de la Pedagogía y su relación con la educación, Immanuel Kant y Durkheim aportan elementos importantes. Kant propone la confección de una disciplina que sea científica, teórica y práctica, que se base en principios, experimentación y reflexiones sobre prácticas concretas.</string>
+    <string name="agregar">Agregar</string>
+    <string name="compartir">Compartir</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="matematicas">Matemáticas</string>
+
+</resources>
